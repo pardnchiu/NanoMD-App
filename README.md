@@ -1,3 +1,5 @@
+![](./preview/app.jpg)
+
 # NanoMD (Mac App)
 
 - `0.2.0`
