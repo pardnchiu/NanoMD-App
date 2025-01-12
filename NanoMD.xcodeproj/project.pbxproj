@@ -149,6 +149,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				1A8BDCB02D322C7200C701EC /* Noto_Sans_Mono */,
 				1ACDBF9D2D31688F000CB0EB /* NanoMD */,
 			);
 			name = NanoMD;
@@ -195,7 +196,6 @@
 				1ACDBFBA2D316891000CB0EB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				1A8BDCB02D322C7200C701EC /* Noto_Sans_Mono */,
 				1ACDBFBB2D316891000CB0EB /* NanoMDUITests */,
 			);
 			name = NanoMDUITests;
@@ -229,11 +229,11 @@
 				};
 			};
 			buildConfigurationList = 1ACDBF962D31688F000CB0EB /* Build configuration list for PBXProject "NanoMD" */;
-			developmentRegion = en;
+			developmentRegion = zh;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				Base,
+				zh,
 			);
 			mainGroup = 1ACDBF922D31688E000CB0EB;
 			minimizedProjectReferenceProxies = 1;
@@ -453,7 +453,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 0.1.0;
+				MARKETING_VERSION = 0.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.pardn.io.NanoMD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -485,7 +485,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 0.1.0;
+				MARKETING_VERSION = 0.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.pardn.io.NanoMD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
